@@ -1,0 +1,8 @@
+one-hot 编码
+独立离散型数据的处理
+机器学习数据的预处理
+
+###pandas map(),get_dummies()函数 latex化
+###pandas read_csv() parameter nrows latexlize
+###data = data.apply(lambda x:x.astype(float))
+###function writing
